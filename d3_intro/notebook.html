@@ -3,6 +3,18 @@
     <p> Grafico </p>
     <div id="chart"></div>
 
+    <p> Grafico 2 </p>
+    <div id="chart2">
+    </div>
+
+    <p> Grafico 3</p>
+    <div id="chart3">
+    </div>
+
+    <p> Grafico 4</p>
+    <div id="chart4">
+    </div>
+
 <script type="module">
 
 // Load the Observable runtime and inspector.
@@ -16,6 +28,15 @@ import notebook from "https://api.observablehq.com/@armandossrecife/introducao-a
 new Runtime().module(notebook, name => {
   if (name === "barras1") {
     return new Inspector(document.querySelector("#chart"));
+  }
+  if (name === "barras2") {
+    return new Inspector(document.querySelector("#chart2"));
+  }
+  if (name === "barras3") {
+    return new Inspector(document.querySelector("#chart3"));
+  }
+  if (name === "barras4") {
+    return new Inspector(document.querySelector("#chart4"));
   }
 });
 
