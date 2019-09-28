@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<body>
+    <h2>Exercicios da aula 15 - DC, Crossfilter e D3 - parte 1 </h2>
+    <h3>Aluno: Armando Soares Sousa - Matrícula: 409428</h3>
+    <h3>Programa de Pós-gradução em Ciência da Computação - UFC</h3>
+    <br>
+    <a href="https://observablehq.com/@armandossrecife/d3-com-crossfilter-e-dc-js">Link do Observable</a>
+    <p> Updates e Transitions no D3</p>
+    <div id="meugrafico"></div>
+
+<script type="module">
+// Load the Observable runtime and inspector.
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+// Your notebook, compiled as an ES module.
+import notebook from "https://api.observablehq.com/@armandossrecife/d3-com-crossfilter-e-dc-js.js?v=3";
+// Load the notebook, observing its cells with a default Inspector
+// that simply renders the value of each cell into the provided DOM node.
+new Runtime().module(notebook, Inspector.into(document.body));
+</script>
