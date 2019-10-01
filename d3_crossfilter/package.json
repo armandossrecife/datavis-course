@@ -1,0 +1,14 @@
+{
+  "name": "@armandossrecife/d3-com-crossfilter-e-dc-js",
+  "main": "d/4e85647b865827a7.js",
+  "version": "411.0.0",
+  "homepage": "https://observablehq.com/@armandossrecife/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Armando Soares Sousa",
+    "url": "https://observablehq.com/@armandossrecife"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
