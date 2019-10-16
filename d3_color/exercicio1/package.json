@@ -1,0 +1,14 @@
+{
+  "name": "@armandossrecife/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/b6694ff127ea0a84.js",
+  "version": "78.0.0",
+  "homepage": "https://observablehq.com/@armandossrecife/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "Armando Soares Sousa",
+    "url": "https://observablehq.com/@armandossrecife"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
