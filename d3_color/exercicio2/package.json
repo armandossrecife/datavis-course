@@ -1,0 +1,14 @@
+{
+  "name": "@armandossrecife/homicidios-em-fortaleza-em-2012",
+  "main": "d/5b33a08d88592ffd.js",
+  "version": "82.0.0",
+  "homepage": "https://observablehq.com/@armandossrecife/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Armando Soares Sousa",
+    "url": "https://observablehq.com/@armandossrecife"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
