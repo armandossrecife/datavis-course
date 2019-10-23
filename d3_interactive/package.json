@@ -1,0 +1,14 @@
+{
+  "name": "@armandossrecife/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "d/0d404bd821c10e03.js",
+  "version": "85.0.0",
+  "homepage": "https://observablehq.com/@armandossrecife/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Armando Soares Sousa",
+    "url": "https://observablehq.com/@armandossrecife"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
