@@ -1,5 +1,5 @@
 ## Aula do dia 23/10/2019
-[interactive2.html](d3_interactive/index.html)
+[interactive2.html](d3_interactive/index.html)<br>
 [interactiv1.html](d3_interactive1/index.html)
 
 ## Aula do dia 16/10/2019
